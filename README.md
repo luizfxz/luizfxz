@@ -1,4 +1,4 @@
-<h1 align="center">  Olá, pessoas eu sou o Luiz Felipe! 🕊 </h1>
+<h2 align="center">  Olá, pessoas eu sou o Luiz Felipe! 🕊 </h2>
 
 
 
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">  
- 
+  <h3> Repositórios mais utilizados! </h3>
   <a href="https://github.com/JordanCy/python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JordanCy&repo=python&theme=midnight-purple&" />
   </a>
