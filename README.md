@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">  
-  
+ 
   <a href="https://github.com/JordanCy/python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JordanCy&repo=python&theme=midnight-purple&" />
   </a>
@@ -34,6 +34,7 @@
  </div>
  
 <div align="center">  
+  
  ![Snake animation](https://github.com/JordanCy/JordanCy/blob/main/github-contribution-grid-snake.svg)
 
  </div>
