@@ -1,4 +1,4 @@
-<h2 align="center">  Olá, pessoas eu sou o Luiz Felipe! 🕊 </h2>
+<h2 align="center">  Olá pessoas, eu sou o Luiz Felipe! 🕊 </h2>
 
 
 
