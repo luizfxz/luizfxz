@@ -4,9 +4,9 @@
 
 <div style="display: inline_block" align="center">
 
-  <a href="https://github.com/JordanCy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordanCy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCy&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <a href="https://github.com/luizfxz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfxz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfxz&layout=compact&langs_count=16&theme=midnight-purple"/>
   
 </div>
 
@@ -25,17 +25,17 @@
 
 <div align="center">  
   <h3> Repositórios mais utilizados! </h3>
-  <a href="https://github.com/JordanCy/python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JordanCy&repo=python&theme=midnight-purple&" />
+  <a href="https://github.com/luizfxz/python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfxz&repo=python&theme=midnight-purple&" />
   </a>
   <a href="https://github.com/JordanCy/html-css">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JordanCy&repo=html-css&theme=midnight-purple&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfxz&repo=html-css&theme=midnight-purple&" />
   </a>
   
  </div>
  
 <div align="center">  
   
- ![Snake animation](https://github.com/JordanCy/JordanCy/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luizfxz/luizfxz/blob/main/github-contribution-grid-snake.svg)
 
  </div>
