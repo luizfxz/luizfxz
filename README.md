@@ -19,6 +19,8 @@
    <img align="center" alt="Jordan-JS" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><span> • </span>
   <img align="center" alt="Jordan-Python" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><span> • </span>
    <img align="center" alt="Jordan-Java" height="100" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<span> • </span>  
+    <img align="center" alt="Jordan-php" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
   
 </div>
