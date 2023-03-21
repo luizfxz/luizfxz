@@ -12,7 +12,7 @@
 
 <div style="display: inline_block" align="center"><br>
   
-  <h3> Linguagens que estou aprendendo! </h3>
+  <h3> Linguagens desenvolvidas! </h3>
 
   <img align="center" alt="Jordan-HTML" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> • 
   <img align="center" alt="Jordan-CSS" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> • 
