@@ -20,6 +20,7 @@
   <img align="center" alt="Jordan-Python" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> •
    <img align="center" alt="Jordan-Java" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> •
     <img align="center" alt="Jordan-php" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <img align="center" alt="Jordan-Linux" height="80" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   
   
 </div>
