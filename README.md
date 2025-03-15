@@ -22,17 +22,6 @@
   
   
 </div>
-
-<div align="center">  
-  <h3> Repositórios mais utilizados! </h3>
-  <a href="https://github.com/luizfxz/python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfxz&repo=python&theme=midnight-purple&" />
-  </a>
-  <a href="https://github.com/JordanCy/php-study">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luizfxz&repo=php-study&theme=midnight-purple&" />
-  </a>
-  
- </div>
  
 <div align="center">  
   
